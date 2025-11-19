@@ -3,4 +3,4 @@ Simple Python Login System
 
 A simple, command-line (CLI) application demonstrating the fundamental logic for user authentication in Python. This script provides basic functionality for creating user accounts and logging in, with a focus on the core concepts of password hashing and secure input.
 
-This project was created as an educational exercise to explore basic cybersecurity principles in Python.
+This project was created as an educational exercise to explore basic cybersecurity principles in Python
